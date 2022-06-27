@@ -1,5 +1,6 @@
+fastcore
+fastai
 voila
-fastai2>=0.0.5
-pi llow was removed
+pillow>=7.1.0
 packaging
 ipywidgets==7.5.1
