@@ -1,3 +1,2 @@
-os
 fastbook
 fastai.vision.widgets
