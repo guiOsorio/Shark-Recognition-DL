@@ -5,8 +5,8 @@
 ## OVERVIEW
 This project consists of a deep learning model to identify sharks of 3 different types: 'great white', 'hammerhead' and 'tiger'. It will not perform well with any other species of shark.
 
-## STRUCTURE
 
+## STRUCTURE
 ### Model_Building.ipynb
 The file 'Model_Building.ipynb' is a Jupyer Notebook used to build the model. 
 Data was obtained through the Bing Image Search API and randomly divided into a training and a validation set.
@@ -23,6 +23,7 @@ This simple web application consists of ipy widgets and has the goal of providin
 
 ### requirement.txt
 File used in deployment to provide libraries used in the web app.
+
 
 ## TODO
 The next step in this project is to deploy the web application. This is to be done using Voila with conjuncture with a deployment service (myBinder or Heroku).
