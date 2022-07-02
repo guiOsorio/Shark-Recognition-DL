@@ -2,10 +2,10 @@
 
 (this project is under development)
 
-## Overview
+## OVERVIEW
 This project consists of a deep learning model to identify sharks of 3 different types: 'great white', 'hammerhead' and 'tiger'. It will not perform well with any other species of shark.
 
-## Structure
+## STRUCTURE
 
 ### Model_Building.ipynb
 The file 'Model_Building.ipynb' is a Jupyer Notebook used to build the model. 
